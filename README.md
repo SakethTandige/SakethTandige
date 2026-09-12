@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Saketh
 
-<!--
-**SakethTandige/SakethTandige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student and aspiring software developer interested in
+building full-stack applications and solving real-world problems.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Java • JavaScript • React • Node.js • Express • MongoDB
+REST APIs • Docker • AWS • Git • GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+• Smart Inventory System
+• Wearable-Integrated Health and Performance Tracker
+• CPU Scheduling Simulator
+• Coupon Engine CLI
+
+📚 Currently Learning
+• Data Structures & Algorithms
+• AWS & Cloud Deployment
+• React / Node.js
+• Docker & CI/CD
+
+🎓 Certifications
+• Oracle Java Foundation Associate
+• NPTEL Machine Learning
+• NPTEL DBMS
+• AWS Cloud Technical Essentials
+• Migrating to AWS Cloud
