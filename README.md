@@ -11,7 +11,7 @@ REST APIs • Docker • AWS • Git • GitHub
 • Smart Inventory System
 • Wearable-Integrated Health and Performance Tracker
 • CPU Scheduling Simulator
-• Coupon Engine CLI
+• NewsApp
 
 📚 Currently Learning
 • Data Structures & Algorithms
